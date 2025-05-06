@@ -1,10 +1,40 @@
 .fb{
     color: blue;
+    
 }
 .phn{
     color: green;
 }
 .ga{
     color: orangered;
+  
 }
-
+.ab{
+    text-decoration: none;
+}
+.ski{
+    text-decoration: none;
+}
+.pro{
+    text-decoration: none;
+}
+.con{
+    text-decoration: none;
+}
+.ski{
+    text-decoration: none;
+}
+.button{
+    margin: 0 5px;
+    padding: 12px 20px;
+    color: #555;
+    font-size: 14px;
+    border: none;
+    cursor: pointer;
+    border-radius: 1px solid transparent;
+    outline: none;
+    
+}
+.button hover{
+    border-radius: 1px solid #ccc;
+}
